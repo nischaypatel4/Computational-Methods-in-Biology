@@ -1,4 +1,4 @@
-# Biobytes — Application of ML in Biotechnology
+# Biobytes — Computational Methods in Biology
 
 **A Biosoc Summer Mentorship Project** **Mentors:** Nischay Patel, Sikha Vamsi
 
